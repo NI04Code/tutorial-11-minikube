@@ -3,6 +3,7 @@
 #### NPM: 2206082013
 #### Kelas: Adpro A
 ---
+#### Notes: This assignment was run on my family PC's because my Mac ran out of storage, therefore the nickname of the user is not naufal-ichsan
 ### Reflection on Hello Minikube
 
 **1. Compare the application logs before and after you exposed it as a Service.**    
